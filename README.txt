@@ -1,5 +1,5 @@
 //———————————————————————————————————————————————————————————————————————————————
-//  This is project operations manual for project of CS542. Xi Wang A20337032.
+//  This is project operations manual for this project 
 //———————————————————————————————————————————————————————————————————————————————
 
 There are 3 ways to run the project.
